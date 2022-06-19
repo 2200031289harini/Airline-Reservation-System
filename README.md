@@ -76,15 +76,24 @@ Veryfing Token for the user
     * PORTA = //your client port number to run the user interface
     * JWT_SECRET = //any string of your choice to use in hashing the users’ passwords
 * In your VS Code terminal in order to run the server you’ll run the following commands
-    * “cd Cheetos”
-    * “cd server”
-    * “npm i”
-    * “node app.js”
+  
+
+```bash
+    cd Cheetos
+    cd server
+    npm i
+    node app.js
+```
 * In your VS Code terminal in order to run the client you’ll run the following commands
-    * “cd Cheetos”
-    * “cd client”
-    * “npm i”
-    * “npm start”
+
+
+```bash
+    cd Cheetos
+    cd client
+    npm i
+    npm start
+```
+   
     
 ## Authors 
 - [@katrinibrahim](https://github.com/katrin-ibrahim)
