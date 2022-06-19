@@ -27,10 +27,10 @@ The user can search for flights using search criteria including Departure Airpor
 
 ![WhatsApp Image 2021-12-25 at 8 51 45 PM](https://user-images.githubusercontent.com/89047287/147393455-f12fc2b4-5cf0-4b0f-a09a-c35bda97f432.jpeg)
 
-## Frameworks:
+## Frameworks
 This project was implemented using MERN stack,so for someone to use/edit this project they need a basic understanding of React.js, HTML & CSS which were used for the frontend and Node.js  which was used for the backend in addition to JavaScript and Express Js and MongoDB Atlas was used for the database.
 
-## Useful Extra Features:
+## Useful Extra Features
 * The user can email himself/herself their reservation itinerary at any time.
 * The departure/return flights can be changed at any time even after paying for the reservation(taking into account that the price difference will have to be paid).
 * The users can view all their previous bookings or history at any time using “My bookings”.
@@ -58,17 +58,17 @@ Veryfing Token for the user
 };
 ```
 
-## Software Installation :
+## Software Installation 
 * Install VS Code or any similar IDE https://code.visualstudio.com/download 
 * Install NodeJs  https://nodejs.org/en/download/ 
 
-## API References:
+## API References
 * NodeMailer: https://nodemailer.com/about/
 * Stripe: https://stripe.com/docs/api 
 
 
 
-## Run Locally:
+## Run Locally
 * Clone the full-stack branch in the repository on your VS Code 
 * Create your own .env file which includes: 
     * mongoURI = //your mongoDB URL
