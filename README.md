@@ -96,7 +96,7 @@ Veryfing Token for the user
    
     
 ## Authors 
-- [@katrinibrahim](https://github.com/katrin-ibrahim)
+- [@katrin-ibrahim](https://github.com/katrin-ibrahim)
 - [@mark-malak](https://github.com/Mark-Malak)
 - [@marysefahim](https://github.com/MaryseFahim)
 - [@mariamaged24](https://github.com/mariamaged24)
